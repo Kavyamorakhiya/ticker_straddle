@@ -1,0 +1,61 @@
+EICHERMOT:
+Combined margin requirements
+Span Rs. 1,49,482
+
+Exposure margin Rs. 75,129
+
+Premium receivable ? Rs. 51,590
+
+Total margin ? Rs. 2,24,611
+
+Margin benefit Rs. 1,45,139
+LAURUSLABS:
+Combined margin requirements
+Span Rs. 2,61,613
+
+Exposure margin Rs. 1,02,578
+
+Premium receivable ? Rs. 92,480
+
+Total margin ? Rs. 3,64,191
+
+Margin benefit Rs. 2,53,164
+
+BSE:
+Combined margin requirements
+Span Rs. 3,64,676
+
+Exposure margin Rs. 57,183
+
+Premium receivable ? Rs. 87,056
+
+Total margin ? Rs. 4,21,859
+
+Margin benefit Rs. 3,38,321
+
+
+KAYNES:
+Combined margin requirements
+Span Rs. 1,47,543
+
+Exposure margin Rs. 43,365
+
+Premium receivable ? Rs. 47,835
+
+Total margin ? Rs. 1,90,908
+
+Margin benefit Rs. 1,44,335
+
+PGEL:
+Combined margin requirements
+Span Rs. 1,13,078
+
+Exposure margin Rs. 26,521
+
+Premium receivable ? Rs. 35,210
+
+Total margin ? Rs. 1,39,599
+
+Margin benefit Rs. 1,12,819
+
+IEX:
