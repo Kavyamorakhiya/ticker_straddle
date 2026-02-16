@@ -1,0 +1,1 @@
+solve error in the terminal, and remember to use venv

@@ -1,0 +1,34 @@
+{
+  "stocks": [
+    {
+      "symbol": "NSE:EICHERMOT"
+    },
+    {
+      "symbol": "NSE:LAURUSLABS"
+    },
+    {
+      "symbol": "NSE:BSE"
+    },
+    {
+      "symbol": "NSE:KAYNES"
+    },
+    {
+      "symbol": "NSE:PGEL"
+    },
+    {
+      "symbol": "NSE:IEX"
+    },
+    {
+      "symbol": "NSE:RELIANCE"
+    },
+    {
+      "symbol": "NSE:TCS"
+    },
+    {
+      "symbol": "NSE:HDFCBANK"
+    },
+    {
+      "symbol": "NSE:ICICIBANK"
+    }
+  ]
+}
